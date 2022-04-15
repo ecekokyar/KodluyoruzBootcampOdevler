@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/bin/Debug/net5.0/Odev2.deps.json
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/bin/Debug/net5.0/Odev2.runtimeconfig.json
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/bin/Debug/net5.0/Odev2.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/bin/Debug/net5.0/Odev2.dll
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/bin/Debug/net5.0/ref/Odev2.dll
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/bin/Debug/net5.0/Odev2.pdb
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/Odev2.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/Odev2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/Odev2.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/Odev2.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/Odev2.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/Odev2.dll
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/ref/Odev2.dll
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/Odev2.pdb
+/Users/ecekokyar/Desktop/Kodluyoruz-Bootcamp-Odevler/Odev2/obj/Debug/net5.0/Odev2.genruntimeconfig.cache
