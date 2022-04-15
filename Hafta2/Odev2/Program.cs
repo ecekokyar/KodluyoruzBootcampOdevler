@@ -6,7 +6,7 @@ namespace Odev2
     {
         static void Main(string[] args)
         {
-            /*
+            /* Adam Asmaca
             * 1. Bir kelime grubundan rastgele bir kelime seç. (ayna)
             * 2. Seçtiğin bu kelimenin her harfini * işaretine dönüştür
             * 3. Bu bulmacayı ekranda göster. (****)
